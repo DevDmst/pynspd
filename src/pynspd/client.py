@@ -39,7 +39,7 @@ class BaseNspdClient:
 
     DNS_HOST = "nspd.gov.ru"
     DNS_URL = "https://" + DNS_HOST
-    REFERER_URL = DNS_URL + "/map"
+    REFERER_URL = DNS_URL + "/"
 
     IP_HOST = "2.63.246.75"
     # random pool?
